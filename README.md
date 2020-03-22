@@ -1,10 +1,6 @@
 # Personal Information 
 
 
-<p align="center">
-  <img width="460" height="650" src="https://images.unsplash.com/photo-1502823403499-6ccfcf4fb453?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60">
-</p>
-
 **Name**: Kyla Ng<br/>
 **Email**: kng@rmit.edu.au<br/>
 **Nationality**: Australian<br/>
@@ -25,7 +21,6 @@
 
 <br><br>
 
-![image](https://www.freewebheaders.com/wp-content/gallery/computer/computer-information-technology-website-header-3014.jpg)
 
 # Interest in IT
 
@@ -53,12 +48,6 @@ After graduating from the undergraduate Bachelor of Information Technology cours
 
 
 # Ideal Job
-
-
-![GetImage](https://user-images.githubusercontent.com/62459754/77226942-0a0c8000-6bb7-11ea-9430-c0347a74cb80.png)
-
-Site: [Cloud Engineer](https://www.seek.com.au/job/41136695?type=standout#searchRequestToken=6e7948a7-0c3c-4666-b89f-821e759a866f)
-
 
 
 **• A description (in your own words) of the position, and particularly what makes this position appealing to you.** 
@@ -103,8 +92,6 @@ Trouble shooting and problem solving skills I believe will come with experience,
 
 ## Myers-Briggs Type Indicator (MBTI)
 
-![ISFJ-A](https://user-images.githubusercontent.com/62459754/77227870-31b31680-6bbe-11ea-953b-3f5775e1b8c1.png)
-
 **•What do the results of these tests mean for you?**
 
 The test results allowed me to understand myself more and made me realize there are likewise people in this world and what percentage bracket I represented. I was thus interested to know what my family and friends MBTI was. 
@@ -116,9 +103,6 @@ It really made me think that about how I could improve, grow and accept my flaws
 I believe the most important take away from these results is that based on our likes, morals, preferences it grounds us and allows us to grow, work on the best method of communication and also awakens us to change. 
 
 ## TestColor
-
-![TestColor](https://user-images.githubusercontent.com/62459754/77228323-70969b80-6bc1-11ea-9398-b5e5c20c268f.png)
-
 
 **• How do you think these results may influence your behavior in a team?**
 
@@ -142,10 +126,6 @@ Therefore, in groups I am a team player that will contribute and participate as 
 
 ## Skills Self Assessment
 
-![Skills](https://user-images.githubusercontent.com/62459754/77230882-7fd21500-6bd2-11ea-83cf-ae653a4592c8.png)
-
-[SkillsAssessment.pdf](https://github.com/sml25/My-Profile/files/4363112/SkillsAssessment.pdf)
-
 **• How should you take this into account when forming a team?**
 
 Forming a team requires different roles to work cohesively and cooperatively to achieve the same goal through excellent team work. It is good from the get go, that all members of the team identify and express their expectations openly and everyone in the team is allocated clear concise responsibilities with deadlines.  
@@ -164,10 +144,7 @@ I believe the above factors will contribute to good dynamics in a team with my d
 # Project Idea
 
 ## KoreaSmiling
-
-<p align="center">
-  <img width="800" height="350" src="https://images.unsplash.com/photo-1535189043414-47a3c49a0bed?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60">
-</p>                                     
+                        
 
 ### Overview:
 
@@ -192,10 +169,6 @@ Key point is Especially if people I follow have checked in or blogged, then I wo
 I believe my idea of an app that brings to you the ease of searching for a city, lists all nearby restaurants and sites but also highlights recommendations or experiences by bloggers, youtubers, mukbangers, and instagrammers. I feel this would be an added bonus and feature that will lure people to use my app over others in the market.  
 
 I also like to be organized when I travel and having my own itinerary builder within the app would make it so much more easier and convenient to store and access the information.
-
-![Stats](https://user-images.githubusercontent.com/62459754/77229202-6f686d00-6bc7-11ea-92e5-15cf6642aa6c.jpg)
-
-Stats: Increase Spending trend of travelling<sup>[10](#myfootnote10)</sup> Source [Statista](https://www.statista.com/statistics/1093335/leisure-travel-spending-worldwide/)
 
 ### Description: 
 
@@ -231,9 +204,7 @@ But, I then do further research on any bloggers, youtubers have made comments an
 
 Some people may not go to the extra mile to research but this app does it easily for you.  
 
-<p align="center">
-  <img width="800" height="350" src="https://images.unsplash.com/photo-1528795259021-d8c86e14354c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1355&q=80">
-</p>                                     
+                         
 
 ### Tools and Technologies: 
 
@@ -264,7 +235,6 @@ Actions using actions.xml in your APK, built in intense search features 
 There are a lot of resources available on the website.
 Software and hardware are via Flutter using Dart code.
 
-![image](https://www.freewebheaders.com/wp-content/gallery/computer/computer-information-technology-website-header-3014.jpg)
 
 Extra Feature called **"build your itinerary"** which can be a private or public schedule which you can share with other users especially useful for people going on the same trip, or it can just be an itinerary you want to share with friends or acquaintances in general. I am always asked by friends and colleague to send my MUST EAT AND DOS LIST.  
 
@@ -335,5 +305,3 @@ I hope that the app will provide users with a joy of exploring up to date and n
 <a name="myfootnote15">15</a>: Google, viewed 20 March 2010, https://www.youtube.com/channel/UC_x5XG1OV2P6uZZ5FSM9Ttw?sub_confirmation=1<br/>
 <a name="myfootnote16">16</a>: Dart, viewed 20 March 2020,  https://dart.dev/platforms<br/>
 <a name="myfootnote17">17</a>: Codelabs, viewed 20 March 2020, https://codelabs.developers.google.com/?cat=Flutter<br/>
-
-  
