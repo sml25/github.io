@@ -197,11 +197,6 @@ I also like to be organized when I travel and having my own itinerary builder w
 
 Stats: Increase Spending trend of travelling<sup>[10](#myfootnote10)</sup> Source [Statista](https://www.statista.com/statistics/1093335/leisure-travel-spending-worldwide/)
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/62459754/77231972-30dbae00-6bd9-11ea-9ce0-c7deafc2f30d.jpg" width="850" title="Github Logo">
-</p>
-
-
 ### Description: 
 
 For this assignment I will create a niche app on a specific country only as first steps. 
