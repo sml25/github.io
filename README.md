@@ -305,3 +305,5 @@ I hope that the app will provide users with a joy of exploring up to date and n
 <a name="myfootnote15">15</a>: Google, viewed 20 March 2010, https://www.youtube.com/channel/UC_x5XG1OV2P6uZZ5FSM9Ttw?sub_confirmation=1<br/>
 <a name="myfootnote16">16</a>: Dart, viewed 20 March 2020,  https://dart.dev/platforms<br/>
 <a name="myfootnote17">17</a>: Codelabs, viewed 20 March 2020, https://codelabs.developers.google.com/?cat=Flutter<br/>
+
+https://[*.]sml25.gihub.io
