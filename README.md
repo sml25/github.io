@@ -1,11 +1,13 @@
+<a href="http://www.youtube.com/watch?v=6F4LdLAyZW4" target="_blank"><img src="http://www.youtube.com/watch?v=6F4LdLAyZW4/0.jpg" 
+alt="Interview with an IT Professional" width="240" height="180" border="10" /></a>
+
+
 <a href="Interview_with_an_IT_Professional (1).mp3">Interview with an IT Professional</a>
 
 <p>The following is a video of an interview conducted with an IT professional conducted as part of the assignement to gain the perspective of what it can be like to work within the industry in the real world.  You will hear the interview conducted by team member Sisi Liu and a work collegue, with the video providing being a presentation of the questions asked.</p>
 
 
 <a href="Interview_with_an_IT_Professional (1).mp3">Interview with an IT Professional</a>
-
-
 
 [![](http://img.youtube.com/vi/B6zjk9vFTUg/0.jpg)](http://www.youtube.com/watch?v=B6zjk9vFTUg "Youtube")
 
