@@ -1,3 +1,5 @@
+[![](http://img.youtube.com/vi/B6zjk9vFTUg/0.jpg)](http://www.youtube.com/watch?v=B6zjk9vFTUg "Youtube")
+
 
 [![Interview](https://img.youtube.com/vi/https://www.youtube.com/embed/B6zjk9vFTUg/0.jpg)](https://www.youtube.com/embed/B6zjk9vFTUg)
 
