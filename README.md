@@ -1,5 +1,10 @@
 <a href="Interview_with_an_IT_Professional (1).mp3">Interview with an IT Professional</a>
 
+<p>The following is a video of an interview conducted with an IT professional conducted as part of the assignement to gain the perspective of what it can be like to work within the industry in the real world.  You will hear the interview conducted by team member Sisi Liu and a work collegue, with the video providing being a presentation of the questions asked.</p>
+
+<p align="center">
+<a href="Interview_with_an_IT_Professional (1).mp3">Interview with an IT Professional</a>
+</p>
 
 [![](http://img.youtube.com/vi/B6zjk9vFTUg/0.jpg)](http://www.youtube.com/watch?v=B6zjk9vFTUg "Youtube")
 
