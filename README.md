@@ -6,8 +6,9 @@
 <a href="Interview_with_an_IT_Professional (1).mp3">Interview with an IT Professional</a>
 </p>
 
+<p align="center">
 [![](http://img.youtube.com/vi/B6zjk9vFTUg/0.jpg)](http://www.youtube.com/watch?v=B6zjk9vFTUg "Youtube")
-
+</p>
 
 [![Interview](https://img.youtube.com/vi/https://www.youtube.com/embed/B6zjk9vFTUg/0.jpg)](https://www.youtube.com/embed/B6zjk9vFTUg)
 
