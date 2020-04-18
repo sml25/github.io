@@ -18,6 +18,8 @@ https://www.youtube.com/embed/6F4LdLAyZW4
 [![Interview with an IT Professional](https://img.youtube.com/vi/http://www.youtube.com/watch?v=6F4LdLAyZW4/0.jpg)](http://www.youtube.com/watch?v=6F4LdLAyZW4)
 
 
+[![Interview with an IT Professional](http://i3.ytimg.com/vi/6F4LdLAyZW4/maxresdefault.jpg)](http://i3.ytimg.com/vi/6F4LdLAyZW4/maxresdefault.jpg "Interview with an IT Professional")
+
 # Personal Information 
 
 
