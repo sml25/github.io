@@ -15,6 +15,8 @@ https://www.youtube.com/embed/6F4LdLAyZW4
 
 [![Interview](https://img.youtube.com/vi/https://www.youtube.com/embed/B6zjk9vFTUg/0.jpg)](https://www.youtube.com/embed/B6zjk9vFTUg)
 
+[![Interview with an IT Professional](https://img.youtube.com/vi/http://www.youtube.com/watch?v=6F4LdLAyZW4/0.jpg)](http://www.youtube.com/watch?v=6F4LdLAyZW4)
+
 
 # Personal Information 
 
