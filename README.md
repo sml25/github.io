@@ -1,5 +1,5 @@
 <a href="http://www.youtube.com/watch?v=6F4LdLAyZW4" target="_blank"><img src="http://i3.ytimg.com/vi/6F4LdLAyZW4/maxresdefault.jpg" 
-alt="Interview with an IT Professional" width="340" height="280" border="10" /></a>
+alt="Interview with an IT Professional" width="240" height="180" border="10" /></a>
 
 
 <a href="Interview_with_an_IT_Professional (1).mp3">Interview with an IT Professional</a>
