@@ -10,13 +10,13 @@ alt="Interview with an IT Professional" width="240" height="180" border="10" /><
 
 <a href="Interview_with_an_IT_Professional (1).mp3">Interview with an IT Professional</a>
 
-[![](http://img.youtube.com/vi/B6zjk9vFTUg/0.jpg)](http://www.youtube.com/watch?v=B6zjk9vFTUg "Youtube")
+[![](http://img.youtube.com/vi/6F4LdLAyZW4/0.jpg)](http://www.youtube.com/watch?v=6F4LdLAyZW4 "Youtube")
 
 [![](http://img.youtube.com/vi/6F4LdLAyZW4/0.jpg)](http://www.youtube.com/watch?v=6F4LdLAyZW4 "Youtube")
 
 https://www.youtube.com/embed/6F4LdLAyZW4
 
-[![Interview](https://img.youtube.com/vi/https://www.youtube.com/embed/B6zjk9vFTUg/0.jpg)](https://www.youtube.com/embed/B6zjk9vFTUg)
+[![Interview](https://img.youtube.com/vi/http://www.youtube.com/watch?v=6F4LdLAyZW4/0.jpg)](http://www.youtube.com/watch?v=6F4LdLAyZW4)
 
 [![Interview with an IT Professional](https://img.youtube.com/vi/http://www.youtube.com/watch?v=6F4LdLAyZW4/0.jpg)](http://www.youtube.com/watch?v=6F4LdLAyZW4)
 
